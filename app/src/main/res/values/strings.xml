@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOF Connect</string>
+    <string name="app_tagline">Internet Freedom</string>
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="connected">متصل</string>
+    <string name="disconnected">قطع</string>
+</resources>
