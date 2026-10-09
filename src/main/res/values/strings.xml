@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOF Connect</string>
+    <string name="app_tagline">Internet Freedom</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome_title">خوش آمدید</string>
+    <string name="welcome_subtitle">به BOF Connect خوش آمدید</string>
+    <string name="continue_btn">ادامه</string>
+    <string name="skip_btn">رد کردن</string>
+    
+    <!-- Permissions -->
+    <string name="permission_title">مجوزهای لازم</string>
+    <string name="permission_vpn">اتصال VPN</string>
+    <string name="permission_notif">اعلان‌ها</string>
+    <string name="permission_battery">بهینه‌سازی باتری</string>
+    
+    <!-- Key Entry -->
+    <string name="key_title">ورود کلید اشتراک</string>
+    <string name="key_hint">کلید خود را وارد کنید</string>
+    <string name="key_save">ذخیره کلید</string>
+    
+    <!-- Home -->
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="connected">متصل</string>
+    <string name="disconnected">قطع</string>
+    <string name="connecting">در حال اتصال...</string>
+    
+    <!-- Bottom Nav -->
+    <string name="nav_home">خانه</string>
+    <string name="nav_stats">آمار</string>
+    <string name="nav_settings">تنظیمات</string>
+</resources>
